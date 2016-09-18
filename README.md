@@ -18,6 +18,8 @@ will print a stream of all IP addresses to stdout. Just a hint: If you are going
 
 If you want to be extra nice, provide your actual email address (or one you have access to) as the password (blog post for details), so server admins can contact you. 
 
+## [![](https://news.ycombinator.com/y18.gif) Discussion](https://news.ycombinator.com/item?id=12523455)
+
 ### Exclusion
 
 (This doesn't concern FTP servers that are public by design.)
