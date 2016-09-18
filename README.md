@@ -14,7 +14,9 @@ LZ5: Decompress the file to stdout to get a stream of IPs:
 lz5 -d openftp4_all_20160918.lz5
 ```
 
-will print a stream of all IP addresses to stdout. Just a hint: If you are going to interact in any way with these servers, consider piping the list through `shuf` each time you try something new so you don't hit the same server(s) over and over again. Also, don't sort the list before rescanning, because you will enounter IP slashes that belong to one network. Think about what it looks like from their perspective ;-)
+will print a stream of all IP addresses to stdout. Just a hint: If you are going to interact in any way with these servers, consider piping the list through `shuf` each time you try something new so you don't hit the same server(s) over and over again. Also, don't sort the list before rescanning, because you will enounter IP slashes that belong to one network. Think about what it looks like from their perspective ;-).
+
+If you want to be extra nice, provide your actual email address (or one you have access to) as the password (blog post for details), so server admins can contact you. 
 
 ### Exclusion
 
