@@ -6,7 +6,9 @@ You can do whatever you want with this data. Consider linking to this repo if yo
 
 ### Usage
 
-Use [lz5](https://github.com/inikep/lz5) to decompress the data. For example:
+The file is provided as a gz and [lz5](https://github.com/inikep/lz5) compressed file.
+
+LZ5: Decompress the file to stdout to get a stream of IPs:
 
 ```sh
 lz5 -d openftp4_all_20160918.lz5
