@@ -20,7 +20,7 @@ If you want to be extra nice, provide your actual email address (or one you have
 
 ## [![](https://news.ycombinator.com/y18.gif) Discussion](https://news.ycombinator.com/item?id=12523455)
 
-- News: [SoftPedia](http://news.softpedia.com/news/nearly-800-000-ftp-servers-accessible-online-without-authentication-508421.shtml) &#8226; [D. Pratt (German)](https://dominicpratt.de/unsichere-ftp-server/)
+- News: [SoftPedia](http://news.softpedia.com/news/nearly-800-000-ftp-servers-accessible-online-without-authentication-508421.shtml) &#8226; [D. Pratt (German)](https://dominicpratt.de/unsichere-ftp-server/) &#8226; [IDG: NETWORKWORLD](http://www.networkworld.com/article/3121655/security/teenager-claims-to-have-accessed-ftps-downloaded-data-from-every-state-with-us-domain.html#comments) &#8226; [mob3](http://mob3.net/forum/threads/user-scans-all-open-ftp-servers-on-ipv4-posts-ip-results.6391/)
 - Discussion elsewehre: [HN](https://news.ycombinator.com/item?id=12527989) &#8226; [r/DataHoarder](https://www.reddit.com/r/DataHoarder/comments/53cyhm/list_of_all_anonymous_login_ftp_servers_worldwide/) &#8226; [r/opendirectories](https://www.reddit.com/r/opendirectories/comments/53b0ar/a_list_of_all_ftp_servers_in_the_whole_internet/) &#8226; [r/netsec](https://www.reddit.com/r/netsec/comments/53bori/massanalyzing_a_chunk_of_the_internet/) &#8226; [r/sysadmin](https://www.reddit.com/r/sysadmin/comments/53cor1/someone_just_posted_every_open_ftp_server_on_ipv4/) 
 
 ### In the Wild
