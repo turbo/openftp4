@@ -27,7 +27,9 @@ If you want to be extra nice, provide your actual email address (or one you have
 
 Applications that use this dataset:
 
-- http://exploreftp.host (seems to struggle a bit atm): Explore a random FTP server.
+- [Explore a random FTP server](http://exploreftp.host)
+- [Explore a random FTP server (better version)](http://s.codepen.io/icodeforlove/debug/KgggqA)
+- [FTPeek](http://tinyletter.com/theroyals) tries to find interesting things and sends you a newsletter.
 
 ### Exclusion
 
