@@ -32,6 +32,10 @@ Just a hint: If you are going to interact in any way with these servers, conside
 
 If you want to be extra nice, provide your actual email address (or one you have access to) as the password (blog post for details), so server admins can contact you.
 
+### Donate
+
+It costs $2 per week to keep the scan running. If you want to throw some money our way (for cookies and stuff), please do so at `14MzwUsRfZTygggU39LECLvamDwFpa2Vjj`.
+
 ## [![](https://news.ycombinator.com/y18.gif) Discussion](https://news.ycombinator.com/item?id=12523455)
 
 - News: [SoftPedia](http://news.softpedia.com/news/nearly-800-000-ftp-servers-accessible-online-without-authentication-508421.shtml) &#8226; [D. Pratt (German)](https://dominicpratt.de/unsichere-ftp-server/) &#8226; [IDG: NETWORKWORLD](http://www.networkworld.com/article/3121655/security/teenager-claims-to-have-accessed-ftps-downloaded-data-from-every-state-with-us-domain.html#comments) &#8226; [mob3](http://mob3.net/forum/threads/user-scans-all-open-ftp-servers-on-ipv4-posts-ip-results.6391/)
