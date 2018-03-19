@@ -45,8 +45,6 @@ It costs $2 per week to keep the scan running. If you want to throw some money o
 
 Applications that use this dataset:
 
-- [Explore a random FTP server](http://exploreftp.host)
-- [Explore a random FTP server (better version)](http://s.codepen.io/icodeforlove/debug/KgggqA)
 - [FTPeek](http://tinyletter.com/theroyals) tries to find interesting things and sends you a newsletter.
 
 ### Exclusion
