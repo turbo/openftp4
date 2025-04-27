@@ -2,8 +2,6 @@
 
 This is a list of all FTP servers directly connected to port 21 in the IPv4 address space that allow anonymous logins. The login must be completed in less than 15 seconds to qualify for this list.  
 
-How and why this list was created is documented in detail in my blog post [*Mass-analyzing a chunk of the Internet*](#). You can do whatever you want with this data. Consider linking to this repo if you find something interesting or odd.
-
 The last scan contains **796,268** servers that allow anonymous access. This is **4.31486 %** of the **18,454,087** services running on port 21 in IPv4.
 
 ### Usage
